@@ -1,2 +1,4 @@
 I'm learning GitHub
 I'll learn WebDev
+
+Consistency >> Perfection 
